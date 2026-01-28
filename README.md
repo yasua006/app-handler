@@ -4,7 +4,7 @@
 ## Kjøring
 1. Åpne terminalen.
 ### MacOS
-Command + Space + "Terminal" eller F4 + "Terminal"
+Command + Space + skriv inn "Terminal" eller F4 + skriv inn "Terminal"
 ### Linux
 Ctrl + Alt + t
 
@@ -36,3 +36,6 @@ chmod +x ./main.bash
 
 ## Demo
 ![Showing run result](./images/run_program_result.png)
+
+> [!NOTE]
+> `xdg-open` for sudo (system nivå) fungerer ikke.
