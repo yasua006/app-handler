@@ -1,0 +1,7 @@
+{
+    "Supported": {
+        "MacOS": true,
+        "Linux": true,
+        "Windows": false
+    }
+}
