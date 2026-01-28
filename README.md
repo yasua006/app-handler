@@ -38,4 +38,4 @@ chmod +x ./main.bash
 ![Showing run result](./images/run_program_result.png)
 
 > [!NOTE]
-> `xdg-open` for sudo (system nivå) fungerer ikke.
+> `xdg-open` for sudo (system nivå) for URL fungerer ikke.
